@@ -1,2 +1,2 @@
-# design_sample1
-Design Sample 1
+# Some Css Design
+Animated features using aos.js
